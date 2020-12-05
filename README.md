@@ -1,10 +1,10 @@
-# Guess-the-Number-Game
+# Number Guessing Game :sparkling_heart:
 
-![Guess-the-Number Game Mockup](mockup.png)
+![Guess-the-Number Game Mockup](mockup.PNG)
 
-I have created a simple guess the number type game. It chooses a random number between 1 and 100 and then challenges the player to guess the number in 10 turns. After each turn the player is told if they are right or wrong. In the case that they are wrong, they are told whether the guess was too low or too high. It also tells the player what numbers they previously guessed. The game ends once the player guesses correctly, or once they run out of turns. When the game ends, the player is given an option to start playing again.
+I have created a simple *Guess the Number* game. It chooses a random number between 1 and 100 and then challenges the player to guess the number in 10 turns. After each turn the player is told if they are right or wrong. In the case that they are wrong, they are told whether the guess was too low or too high. It also tells the player what numbers they previously guessed. The game ends once the player guesses correctly, or once they run out of turns. When the game ends, the player is given an option to start playing again.
 
-## Broken Down into ACTIONABLE TASKS &#129305
+## Broken Down into **Actionble** Tasks :kissing_heart:
 1. Generate a random number between 1 and 100.
 2. Record the turn number the player is on. Start it on 1.
 3. Provide the player with a way to guess what the number is.
