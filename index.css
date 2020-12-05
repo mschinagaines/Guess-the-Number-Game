@@ -1,0 +1,21 @@
+html {
+    font-family: sans-serif;
+}
+
+body {
+    width: 50%;
+    display: block;
+    max-width: 800px;
+    min-width: 480px;
+    margin: 0 auto;
+    margin-top: 200px;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+}
+
+
+.lastResult {
+    color: white;
+    padding: 3px;
+}
