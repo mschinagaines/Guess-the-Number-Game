@@ -74,7 +74,7 @@ function checkGuess() {
   function resetGame() {
     guessCount = 1;   //guessCount is declared as 0 once again
   
-    const resetParas = document.querySelectorAll('.resultParas p'); //the variable resetParas is created to created to create p elements with the class of resultParas
+    const resetParas = document.querySelectorAll('.resultParas p'); //the variable resetParas is emptied in to make way for the new values of the future game
     for (let i = 0 ; i < resetParas.length ; i++) {
       resetParas[i].textContent = '';
     }
